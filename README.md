@@ -1,0 +1,1 @@
+To rate a national team’s offensive and defensive prowess accurately, I needed to keep track of the goals scored, goals allowed, and wins of each team. Thus, a database is essential to store and retrieve such data to display in the application. Implemented the application as a stand-alone platform since it is the most accessible and system independent to display the service. 
